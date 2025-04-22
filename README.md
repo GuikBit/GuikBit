@@ -90,9 +90,9 @@ O ecossistema **OdontoSync** também está ao seu alcance com um aplicativo móv
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Profile views](https://komarev.com/ghpvc/?username=guikbit&color=blue)
--->
+
 ![Snake animation](https://github.com/GuikBit/GuikBit/blob/gh-pages/github-snake-dark.svg)
-<!--
+
 **GuikBit/GuikBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
