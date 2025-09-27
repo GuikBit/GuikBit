@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Oliveira (GuikBit)</h1>
+<h1 align="center">👋 Olá, eu sou o GuikBit</h1>
 
 <p align="center">
   Desenvolvedor Full Stack apaixonado por criar soluções criativas, eficientes e escaláveis.  
@@ -6,12 +6,10 @@
   construindo desde aplicações modernas de front-end até APIs robustas no back-end.
 </p>
 
----
 
 ## 🌐 Meu Portfólio
 👉 Confira meu portfólio completo: [guikbit.vercel.app](https://guikbit.vercel.app)
 
----
 
 ## 🚀 Principais Projetos
 
