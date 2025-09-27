@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Meu Portfólio
-👉 Confira meu portfólio completo [aqui](https://guikbit.vercel.app);
+👉 Confira meu [portfólio](https://guikbit.vercel.app) completo;
 
 ---
 
