@@ -6,12 +6,10 @@
   construindo desde aplicações modernas de front-end até APIs robustas no back-end.
 </p>
 
----
 
 ## 🌐 Meu Portfólio
 👉 Confira meu [portfólio](https://guikbit.vercel.app) completo;
 
----
 
 ## 🚀 Principais Projetos
 
@@ -22,7 +20,6 @@ Um ecossistema completo para gestão de clínicas odontológicas.
 - [**API-Odonto**](https://github.com/GuikBit/API-Odonto) → API robusta em C#/.NET + MySQL  
 - [**Mobile-Odonto**](https://github.com/GuikBit/Mobile-Odonto) → Aplicativo em React Native + Expo  
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
@@ -44,7 +41,6 @@ Um ecossistema completo para gestão de clínicas odontológicas.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
 
----
 
 ## 📊 Estatísticas
 <p align="center">
@@ -52,7 +48,6 @@ Um ecossistema completo para gestão de clínicas odontológicas.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=radical" height="160"/>
 </p>
 
----
 
 ## 📫 Onde me encontrar
 <p align="center">
@@ -61,7 +56,6 @@ Um ecossistema completo para gestão de clínicas odontológicas.
   <a href="https://github.com/GuikBit"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
 
 <p align="center">
   ✨ “Criando soluções inteligentes que unem design, tecnologia e performance.” ✨
