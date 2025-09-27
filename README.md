@@ -25,22 +25,29 @@ Um ecossistema completo para gestão de clínicas odontológicas.
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <!-- Frontend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/expo/expo/HEAD/.github/resources/banner.png" title="Expo" alt="Expo" width="40" height="20"/>&nbsp;
-  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=1000%2C1000&ssl=1&w=640" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>&nbsp;
-  
-  <!-- Backend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-
-  <!-- Outros -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-ef4444?style=for-the-badge&logo=angular&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/React-ef4444?style=for-the-badge&logo=react&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/React_Native-ef4444?style=for-the-badge&logo=react&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/Expo-ef4444?style=for-the-badge&logo=expo&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/PrimeNG-ef4444?style=for-the-badge&logo=primefaces&logoColor=white&labelColor=2d2d2d"/>
 </p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-ef4444?style=for-the-badge&logo=csharp&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/Java-ef4444?style=for-the-badge&logo=java&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-ef4444?style=for-the-badge&logo=springboot&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/.NET-ef4444?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/MySQL-ef4444?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d2d2d"/>
+</p>
+
+<p align="center">
+  <!-- Outros -->
+  <img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/Docker-ef4444?style=for-the-badge&logo=docker&logoColor=white&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/Linux-ef4444?style=for-the-badge&logo=linux&logoColor=white&labelColor=2d2d2d"/>
+</p>
+
 
 ---
 
@@ -54,10 +61,18 @@ Um ecossistema completo para gestão de clínicas odontológicas.
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="mailto:guilhermeoliveira1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-771318203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/GuikBit"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <!-- Contato -->
+  <a href="mailto:guilhermeoliveira1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d2d2d" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-oliveira-771318203/">
+    <img src="https://img.shields.io/badge/LinkedIn-ef4444?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d2d2d" alt="LinkedIn"/>
+  </a>
+  <a href="https://guikbit.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-ef4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2d2d2d" alt="Portfólio"/>
+  </a>
 </p>
+
 
 ---
 
