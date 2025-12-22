@@ -4,12 +4,12 @@
 
 ### Full Stack Developer | Criando experiências digitais incríveis
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FB2C36?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-771318203/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeoliveira1998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuikBit)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Angular+%7C+React;Arquiteto+de+APIs+REST;Apaixonado+por+C%23+%7C+Java;Mobile+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FB2C36&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Angular+%7C+React;Arquiteto+de+APIs+REST;Apaixonado+por+C%23+%7C+Java;Mobile+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -53,7 +53,7 @@ App multiplataforma com React Native + Expo
 
 Explore mais projetos no meu GitHub:
 
-[![Repos](https://img.shields.io/badge/Ver_Repositórios-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuikBit?tab=repositories)
+[![Repos](https://img.shields.io/badge/Ver_Repositórios-FB2C36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuikBit?tab=repositories)
 
 </td>
 </tr>
@@ -102,11 +102,11 @@ Explore mais projetos no meu GitHub:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guikbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guikbit&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guikbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB2C36&icon_color=FB2C36&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guikbit&theme=tokyonight&hide_border=true&background=0D1117&stroke=FB2C36&ring=FB2C36&fire=FB2C36&currStreakLabel=FB2C36" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=guikbit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB2C36&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=guikbit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FB2C36&line=FB2C36&point=C9D1D9" alt="Activity Graph" />
 
 </div>
 
@@ -158,7 +158,7 @@ const guikbit = {
 
 **Quer discutir um projeto? Tem uma ideia incrível? Entre em contato!**
 
-[![Portfolio](https://img.shields.io/badge/Visite_meu_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visite_meu_Portfolio-FB2C36?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
 
 </div>
 
@@ -168,7 +168,7 @@ const guikbit = {
 
 ### ⭐ Curtiu meu perfil? Deixe uma estrela nos repositórios!
 
-![Profile Views](https://komarev.com/ghpvc/?username=guikbit&color=8B5CF6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=guikbit&color=FB2C36&style=for-the-badge)
 
 **"Transformando café em código desde... sempre! ☕💻"**
 
