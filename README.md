@@ -1,94 +1,61 @@
 <div align="center">
 
-# 👨‍💻 Guilherme Oliveira
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FB2C36&center=true&vCenter=true&random=false&width=650&lines=Guilherme+Oliveira;Full+Stack+Developer;Angular+%7C+React+%7C+.NET+%7C+Spring+Boot" alt="Typing SVG" />
 
-### Full Stack Developer | Criando experiências digitais incríveis
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FB2C36?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-771318203/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeoliveira1998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuikBit)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FB2C36&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Angular+%7C+React;Arquiteto+de+APIs+REST;Apaixonado+por+C%23+%7C+Java;Mobile+Developer" alt="Typing SVG" />
-
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por criar **soluções criativas, eficientes e escaláveis**. Com experiência sólida em desenvolvimento front-end e back-end, trabalho com as tecnologias mais modernas do mercado para transformar ideias em produtos digitais de alto impacto.
+Desenvolvedor **Full Stack** com experiencia solida em front-end e back-end, focado em criar **solucoes escalaveis e de alto impacto**. Atuo com as tecnologias mais modernas do mercado, desde interfaces responsivas ate arquiteturas robustas de APIs.
 
-🔹 **Foco atual:** Angular, React/React Native, Spring Boot e .NET  
-🔹 **Especialidades:** Arquitetura de software, APIs RESTful, Design responsivo  
-🔹 **Sempre aprendendo:** Novas tecnologias e melhores práticas de desenvolvimento
+- **Atuacao:** Full Stack Developer na [Pluri Sistemas](https://github.com/GuikBit)
+- **Localizacao:** Juiz de Fora, MG - Brasil
+- **Foco atual:** Angular, React/React Native, Spring Boot e .NET
+- **Especialidades:** Arquitetura de software, APIs RESTful, Design responsivo
 
----
-
-## 💼 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### 🦷 OdontoSync - Ecossistema Completo
-Sistema integrado para gestão de clínicas odontológicas
-
-**🖥️ Front-end**  
-[![Angular-Odonto](https://img.shields.io/badge/Angular_Odonto-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/GuikBit/Angular-Odonto)  
-Interface moderna com Angular + PrimeNG
-
-**⚙️ Back-end**  
-[![API-Odonto](https://img.shields.io/badge/API_Odonto-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/GuikBit/API-Odonto)  
-API robusta em C#/.NET + MySQL
-
-**📱 Mobile**  
-[![Mobile-Odonto](https://img.shields.io/badge/Mobile_Odonto-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/GuikBit/Mobile-Odonto)  
-App multiplataforma com React Native + Expo
-
-</td>
-<td width="50%">
-
-### 🌟 Outros Projetos
-
-Explore mais projetos no meu GitHub:
-
-[![Repos](https://img.shields.io/badge/Ver_Repositórios-FB2C36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuikBit?tab=repositories)
-
-</td>
-</tr>
-</table>
+> *"Clean code, great design, powerful solutions."*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
 <div align="center">
 
-### Frontend
+#### Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+#### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Banco de Dados
+#### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Ferramentas
+#### DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -98,7 +65,63 @@ Explore mais projetos no meu GitHub:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Bellory - Ecossistema Completo
+Plataforma completa com landing page, sistema administrativo e API, construida com tecnologias modernas.
+
+| Componente | Tecnologia |
+|:-----------|:-----------|
+| **[Bellory](https://github.com/GuikBit/Bellory)** - Site de divulgacao | TypeScript |
+| **[Bellory-front](https://github.com/GuikBit/Bellory-front)** - Landing Page | TypeScript |
+| **[Bellory-admin](https://github.com/GuikBit/Bellory-admin)** - Painel Admin | TypeScript |
+| **[Bellory-back](https://github.com/GuikBit/Bellory-back)** - API Backend | Java / Spring Boot |
+| **[Bellory-docs](https://github.com/GuikBit/Bellory-docs)** - Documentacao | Markdown |
+
+[![Live](https://img.shields.io/badge/Acessar_Site-FB2C36?style=flat-square&logo=googlechrome&logoColor=white)](https://app.bellory.com.br)
+
+</td>
+<td width="50%" valign="top">
+
+### OdontoSync - Gestao Odontologica
+Sistema integrado para gestao de clinicas odontologicas com front-end, API e app mobile.
+
+| Componente | Tecnologia |
+|:-----------|:-----------|
+| **[Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)** - Front-end | Angular + PrimeNG |
+| **[API-Odonto](https://github.com/GuikBit/API-Odonto)** - API REST | C# / .NET + MySQL |
+| **[Mobile-Odonto](https://github.com/GuikBit/Mobile-Odonto)** - App Mobile | React Native + Expo |
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AgenteIA - Agente de Inteligencia Artificial
+Projeto de agente inteligente construido com TypeScript.
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuikBit/AgenteIA)
+
+</td>
+<td width="50%" valign="top">
+
+### Mais Projetos
+
+Confira todos os meus repositorios:
+
+[![Repos](https://img.shields.io/badge/Ver_Todos_Repositorios-FB2C36?style=flat-square&logo=github&logoColor=white)](https://github.com/GuikBit?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Estatisticas do GitHub
 
 <div align="center">
 
@@ -112,7 +135,7 @@ Explore mais projetos no meu GitHub:
 
 ---
 
-## 🏆 GitHub Trophies
+## Trofeus
 
 <div align="center">
 
@@ -122,7 +145,7 @@ Explore mais projetos no meu GitHub:
 
 ---
 
-## 📈 Contribuições
+## Contribuicoes
 
 <div align="center">
 
@@ -132,33 +155,21 @@ Explore mais projetos no meu GitHub:
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+<div align="center">
 
 ```typescript
-const guikbit = {
-  code: ["JavaScript", "TypeScript", "C#", "Java"],
-  technologies: {
+const developer = {
+  name: "Guilherme Oliveira",
+  role: "Full Stack Developer",
+  stack: {
     frontend: ["Angular", "React", "React Native"],
     backend: [".NET", "Spring Boot", "Node.js"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Docker", "Git", "Postman"]
   },
-  currentFocus: "Criando soluções escaláveis e performáticas",
-  motto: "Clean code, great design, powerful solutions 🚀"
+  currentFocus: "Solucoes escalaveis e performaticas",
+  motto: "Clean code, great design, powerful solutions",
 };
 ```
-
----
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-
-💼 Estou sempre aberto a novos desafios e oportunidades de colaboração!
-
-**Quer discutir um projeto? Tem uma ideia incrível? Entre em contato!**
-
-[![Portfolio](https://img.shields.io/badge/Visite_meu_Portfolio-FB2C36?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
 
 </div>
 
@@ -166,10 +177,12 @@ const guikbit = {
 
 <div align="center">
 
-### ⭐ Curtiu meu perfil? Deixe uma estrela nos repositórios!
+**Aberto a novos desafios e oportunidades de colaboracao.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=guikbit&color=FB2C36&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Visite_meu_Portfolio-FB2C36?style=for-the-badge&logo=vercel&logoColor=white)](https://guikbit.vercel.app)
 
-**"Transformando café em código desde... sempre! ☕💻"**
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=guikbit&color=FB2C36&style=flat-square)
 
 </div>
