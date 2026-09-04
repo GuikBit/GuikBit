@@ -129,6 +129,52 @@ Cerca de 90 especificações técnicas versionadas e os fluxos reais do **agente
 
 ---
 
+## Payment API — infraestrutura de pagamentos multi-tenant
+
+**Gateway de cobranças como serviço, integrado ao Asaas.** Uma API que várias aplicações consomem para cobrar: clientes, planos, assinaturas recorrentes, cobranças em PIX, boleto e cartão, webhooks e troca de plano com cálculo pró-rata. É o serviço que a própria Bellory usa para gerir assinaturas.
+
+O diferencial não é o CRUD — é o que sustenta dinheiro em produção: **isolamento de tenant no próprio banco (PostgreSQL Row-Level Security)**, chaves de idempotência em toda escrita, circuit breaker e retry no gateway externo, segredos cifrados em repouso e observabilidade de ponta a ponta.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Paymant-API](https://github.com/GuikBit/Paymant-API) — o serviço
+**Java 21 · Spring Boot 3.4 · PostgreSQL 16 · Redis 7**
+
+Multi-tenancy por **RLS**: a separação é imposta pelo banco, não por um `where` que alguém pode esquecer. Integração com o Asaas protegida por **Resilience4j** (circuit breaker, retry e rate limiter), webhooks idempotentes e reconciliação de cobranças.
+
+Observabilidade completa — **Micrometer + Prometheus + OpenTelemetry**, dashboard de Grafana e alertas versionados no repo. Testes com **TestContainers**, **WireMock** e **jqwik** (property-based), mais **k6** para carga: criação de cobrança, flood de webhook e relatórios.
+
+`Spring Security + JWT` · `Flyway` · `MapStruct` · `Jasypt` · `Docker Compose` · `OpenAPI`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Payment-API---WEB](https://github.com/GuikBit/Payment-API---WEB) — o console
+**React 19 · Vite 8 · TypeScript · Tailwind 4**
+
+SPA dark-first para operar e testar a API: cobranças, assinaturas, trocas de plano, webhooks, reconciliação e relatórios.
+
+O cliente HTTP resolve sozinho o que costuma vazar para as telas — **refresh automático no 401**, header de tenant (`X-Company-Id`) e **chave de idempotência gerada em todo POST**. Estado servidor no TanStack Query, estado de sessão no Zustand, formulários com React Hook Form + Zod.
+
+`Radix UI` · `TanStack Table` · `Recharts` · `Framer Motion` · `Zustand` · `Sonner`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Módulo | Escala | Stack |
+|:---|:---|:---|
+| **Paymant-API** | 115 endpoints · 266 classes · 14 migrations · 27 suítes de teste | Java 21 · Spring Boot 3.4 |
+| **Payment-API---WEB** | 139 arquivos TypeScript | React 19 · Vite 8 · Tailwind 4 |
+
+</div>
+
+---
+
 <!-- ## Outros projetos
 
 <table>
@@ -195,6 +241,8 @@ Mais de 20 projetos entre APIs, front-ends e experimentos.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### Integrações e ferramentas
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
@@ -202,6 +250,7 @@ Mais de 20 projetos entre APIs, front-ends e experimentos.
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 </div>
 
@@ -211,34 +260,33 @@ Mais de 20 projetos entre APIs, front-ends e experimentos.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guikbit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB2C36&icon_color=FB2C36&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guikbit&theme=tokyo_night" alt="Resumo do perfil" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=guikbit&theme=tokyonight&hide_border=true&background=0D1117&stroke=FB2C36&ring=FB2C36&fire=FB2C36&currStreakLabel=FB2C36" alt="Sequência de contribuições" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guikbit&theme=tokyo_night" alt="Estatísticas gerais" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB2C36&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guikbit&theme=tokyo_night" alt="Commits por linguagem" />
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guikbit&theme=tokyo_night" alt="Repositórios por linguagem" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guikbit&theme=tokyo_night&utcOffset=-3" alt="Horários mais produtivos" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=guikbit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FB2C36&line=FB2C36&point=C9D1D9&area=true" alt="Gráfico de atividade" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guikbit&theme=tokyo_night&utcOffset=-3" alt="Horários mais produtivos" />
 
 </div>
 
 ---
 
-## Conquistas
+<!--
+  Trofeus e snake removidos: os dois provedores (github-profile-trophy.vercel.app e a
+  branch `output` deste repo) nao estavam renderizando.
+
+  Para ligar o snake: copie `snake-workflow.yml` para .github/workflows/ neste repositorio
+  (GuikBit/GuikBit), rode a Action uma vez e descomente a linha abaixo.
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=guikbit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/GuikBit/GuikBit/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
+-->
 
 <div align="center">
 
