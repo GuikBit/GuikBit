@@ -26,6 +26,13 @@ Desenvolvedor **Full Stack** com experiência sólida nas duas pontas: as interf
 - **Foco atual:** React 19, Next.js, Spring Boot, .NET e arquiteturas multi-tenant
 - **Especialidades:** APIs RESTful, integrações de pagamento, automação com IA, design systems
 
+### Formação
+
+| Curso | Instituição | Conclusão |
+|:---|:---|:---|
+| **Pós-graduação em Engenharia de Software** | PUC Minas | ![2025](https://img.shields.io/badge/2025-FB2C36?style=flat-square) |
+| **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Vianna Júnior | ![2023](https://img.shields.io/badge/2023-FB2C36?style=flat-square) |
+
 > *"Clean code, great design, powerful solutions."*
 
 ---
