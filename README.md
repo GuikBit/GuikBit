@@ -72,7 +72,7 @@ Integra **Mercado Pago nos dois modos** (Checkout Pro e Transparente/Orders API)
 </td>
 <td width="50%" valign="top">
 
-#### [barbearia](https://github.com/GuikBit/barbearia) — o painel do salão
+#### [Bellory-front](https://github.com/GuikBit/barbearia) — o painel do salão
 **React 19 · TypeScript · Vite 8 · PWA**
 
 O sistema que o dono do salão abre todo dia: agenda multiprofissional, clientes, colaboradores, serviços, pacotes de crédito pré-pago, estoque com Kardex auditável, PDV, financeiro e relatórios.
@@ -86,7 +86,7 @@ O sistema que o dono do salão abre todo dia: agenda multiprofissional, clientes
 <tr>
 <td width="50%" valign="top">
 
-#### [Bellory](https://github.com/GuikBit/Bellory) — site e BellLink
+#### [Bellory](https://github.com/GuikBit/Bellory) — site
 **Next.js 16 · App Router · TypeScript**
 
 A vitrine e a porta de entrada. Site de marketing com páginas por segmento, SEO estruturado em JSON-LD e CSS crítico inlined no build para Core Web Vitals.
@@ -129,7 +129,7 @@ Cerca de 90 especificações técnicas versionadas e os fluxos reais do **agente
 
 ---
 
-## Outros projetos
+<!-- ## Outros projetos
 
 <table>
 <tr>
@@ -161,7 +161,7 @@ Mais de 20 projetos entre APIs, front-ends e experimentos.
 </tr>
 </table>
 
----
+--- -->
 
 ## Stack tecnológico
 
